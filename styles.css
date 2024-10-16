@@ -20,18 +20,16 @@ header {
 header img {
     position: absolute;
     top: 50%;
-    left: 20px; /* Adjusted for better centering */
+    left: 15%; /* Adjusted to bring the image more inside */
     transform: translateY(-50%);
-    width: 150px; /* fixed width */
-    height: 150px; /* fixed height */
+    width: 150px;
+    height: 150px;
     border-radius: 75px;
-    margin-right: 20px;
 }
 
 header h1, header p {
-    padding-left: 180px; /* Offset for the image */
-    margin: 0;
-    animation: fadeInDown 1s both;
+    margin-left: 20%; /* Adjust this to push the text further right from the image */
+    text-align: left;
 }
 
 @keyframes fadeInDown {
