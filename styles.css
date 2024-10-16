@@ -18,18 +18,21 @@ header {
 }
 
 header img {
-    position: absolute;
-    top: 50%;
-    left: 15%; /* Adjusted to bring the image more inside */
-    transform: translateY(-50%);
+    float: left;
     width: 150px;
     height: 150px;
     border-radius: 75px;
+    margin-right: 20px;
+    position: absolute; /* Positioned relative to header */
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%); /* Center align vertically */
 }
 
 header h1, header p {
-    margin-left: 20%; /* Adjust this to push the text further right from the image */
-    text-align: left;
+    margin: 10px 0;
+    padding-left: 180px; /* Offset for the image */
+    animation: fadeInDown 1s both;
 }
 
 @keyframes fadeInDown {
@@ -119,3 +122,6 @@ a:hover {
 .fab {
     color: #aeefff; /* Adjust to better fit with the overall theme */
 }
+
+
+
