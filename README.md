@@ -25,7 +25,4 @@ I am an IT Operations Specialist and Data Engineer with 3+ years of experience i
 - AWS Certified: Data Engineer – Associate  
 
 ---
-
-## 📫 Contact  
-- **Email**: [patil.rutu@northeastern.edu](mailto:patil.rutu@northeastern.edu)  
-- **LinkedIn**: [Rutuja Patil](https://www.linkedin.com/in/rutujapatil06)  
+ 
