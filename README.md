@@ -1,4 +1,4 @@
-# Rutuja Patil | IT Operations Specialist and Data Engineer  
+# Rutuja Patil | Data Engineer | Operations Specialist | Business Analyst
 **📍 Boston, MA** | **📧 [patil.rutu@northeastern.edu](mailto:patil.rutu@northeastern.edu)** | **🌐 [LinkedIn](https://www.linkedin.com/in/rutujapatil06)**  
 
 ---
